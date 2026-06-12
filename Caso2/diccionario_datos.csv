@@ -1,0 +1,7 @@
+Variable,Tipo_Python,Tipo_Estadistico,Rango,Valores_Nulos,Valores_Unicos,Descripcion
+Hours Studied,int64,Discreta,1 - 9,0,9,Horas semanales dedicadas al estudio
+Previous Scores,int64,Discreta,40 - 99,0,60,Puntaje obtenido en evaluaciones previas
+Extracurricular Activities,object (str),Categorica Binaria,"Yes, No",0,2,Participacion en actividades extracurriculares (Yes/No)
+Sleep Hours,int64,Discreta,4 - 9,0,6,Horas de sueno promedio por noche
+Sample Question Papers Practiced,int64,Discreta,0 - 9,0,10,Cantidad de examenes de practica resueltos
+Performance Index,float64,Continua,10.0 - 100.0,0,91,Indice de rendimiento academico (variable objetivo)
